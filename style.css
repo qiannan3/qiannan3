@@ -1,0 +1,73 @@
+			.xc{
+				position:absolute;
+				left:content;
+				top:120px
+			}
+			.bili{
+				position:absolute;
+				left:100px;
+				top:50px
+			}
+			.aqy{
+				position:absolute;
+				left:300px;
+				top:50px
+			}
+			.zjy{
+				position:absolute;
+				left:430px;
+				top:50px
+			}
+			.crp{
+				position:absolute;
+				left:560px;
+				top:50px
+			}
+			.miku{
+				position:absolute;
+				left:content;
+				top:30px
+			}
+			.osu{
+				position:absolute;
+				left: 950px;
+				top: 50px
+			}
+			.zgdx{
+				position:absolute;
+				left: 1100px;
+				top: 50px
+			}
+			.akc{
+				position:absolute;
+				left: 1250px;
+				top: 50px
+			}
+			.by{
+				position:absolute;
+				left: 10px;
+				top: 715px;
+				color: #ee86ee;
+				opacity: 0.9;
+				font-family: "french script mt";
+			}
+			a{
+				text-decoration: none;
+				color: #ffc0cb;
+				opacity: 0.7
+			}
+			a:hover {
+					color: red;
+					opacity: 2;
+			}
+			form {
+					position: absolute;
+					top: 0px;
+					left: 370px;
+					width: 800px;
+					height: 10px;
+					padding: 10px 20px 20px;
+					text-align: center;
+					line-height: 0px;
+					border: 0px solid #777777;
+			}
